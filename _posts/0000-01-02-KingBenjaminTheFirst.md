@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "I'm writing on the internet :-) !!!"
 ---
 Your text
 Use the left arrow to go back!
